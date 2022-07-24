@@ -3,6 +3,6 @@
 
 #include <stdio.h>
 
-char *readline(FILE *);
+char *readline (FILE *);
 
 #endif /* READLINE_H */
